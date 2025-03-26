@@ -1,0 +1,4 @@
+
+yt-dlp -x --audio-format mp3 --playlist-start 1 --playlist-end 5 https://www.youtube.com/playlist?list=PL9LUD5Kp855InMnKTaRy3LH3kTIYJyBzs
+
+yt-dlp -f 'ba' -x --audio-format mp3 --download-archive GuoLawMp3.txt https://www.youtube.com/playlist?list=PLbkHLNIYhFbzYh24ftgd0twnrLwY8w3Ag -o '%(id)s.mp3'
