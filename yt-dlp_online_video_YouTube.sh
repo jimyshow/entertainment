@@ -1,4 +1,4 @@
-yt-dlp -f140 --download-archive GuoLawMay20.txt https://www.youtube.com/playlist?list=PLL_n-Bh7cVgVfDPPjBwDtTqelcIzrEZkU
+./yt-dlp -f140 --download-archive GuoLawMay20.txt https://www.youtube.com/playlist?list=PLL_n-Bh7cVgVfDPPjBwDtTqelcIzrEZkU
 
 234 mp4   audio only        │                  m3u8  │ audio only          unknown             Default
 140 m4a   audio only      2 │  170.54MiB  129k https │ audio only          mp4a.40.2  129k 44k medium, m4a_dash
