@@ -1,3 +1,5 @@
+.\yt-dlp.exe -f 605+140 --playlist-start 9 --download-archive a.txt https://www.youtube.com/playlist?list=PLj61SPm9M9LbIhVXZVb34h7HoSw9mr-fM
+
 
 ./yt-dlp -f140 --playlist-start 134 --playlist-end 135 --download-archive GuoLawMay20.txt https://www.youtube.com/playlist?list=PLL_n-Bh7cVgVfDPPjBwDtTqelcIzrEZkU
 
