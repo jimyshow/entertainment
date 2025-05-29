@@ -1,4 +1,6 @@
 
+.\yt-dlp.exe -f 605+140 --download-archive a.txt https://www.youtube.com/playlist?list=PLj61SPm9M9Lb63N0s1yYvt71zYHsowmhU
+
  .\yt-dlp.exe -f 605+140 --playlist-start 2 --playlist-end 3 --download-archive a.txt https://www.youtube.com/playlist?list=PLj61SPm9M9LbIhVXZVb34h7HoSw9mr-fM
 .\yt-dlp.exe -f 605+140 --playlist-start 9 --download-archive a.txt https://www.youtube.com/playlist?list=PLj61SPm9M9LbIhVXZVb34h7HoSw9mr-fM
 
